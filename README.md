@@ -41,8 +41,8 @@ The purpose of this analysis was to utilize machine learning techniques to predi
 - Precision Score Low - 1.00%
 - Precision Score High - 100.00%
 
-
 ## Easy Ensemble Adaboost Classifier ##
+<img width="658" alt="Screen Shot 2022-02-11 at 5 25 42 PM" src="https://user-images.githubusercontent.com/89474406/153691476-5f811f27-179e-4bd7-bb63-63d2f4f2522b.png">
 
 - Accuracy Score - 93.17%
 - Precision Score Low - 9.00%
