@@ -30,10 +30,22 @@ The purpose of this analysis was to utilize machine learning techniques to predi
 ## SMOTEEN Combosampling ##
 <img width="651" alt="Screen Shot 2022-02-11 at 5 26 42 PM" src="https://user-images.githubusercontent.com/89474406/153690788-667a8307-9539-402b-91ad-35b881f7c3bd.png">
 
-- Accuracy Score - 64.28%
+- Accuracy Score - 64.29%
 - Precision Score Low - 1.00%
 - Precision Score High - 100.00%
 
 ## Random Forest ##
+<img width="658" alt="Screen Shot 2022-02-11 at 5 25 42 PM" src="https://user-images.githubusercontent.com/89474406/153691060-31c88982-fb1b-468e-a83d-2e4bee08372a.png">
+
+- Accuracy Score - 78.85%
+- Precision Score Low - 1.00%
+- Precision Score High - 100.00%
+
 
 ## Easy Ensemble Adaboost Classifier ##
+
+- Accuracy Score - 93.17%
+- Precision Score Low - 9.00%
+- Precision Score High - 100.00%
+
+
