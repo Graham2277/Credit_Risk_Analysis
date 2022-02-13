@@ -48,4 +48,12 @@ The purpose of this analysis was to utilize machine learning techniques to predi
 - Precision Score Low - 9.00%
 - Precision Score High - 100.00%
 
+# Summary
+
+We utilized six different mahcine learning models to see which one best predeicts credit score ratings. When comparing the six models, the one I would recommend for use would be the Easy Ensemble Adaboost Classifer. As detailed above, this model provides the highest Accuracy Score at 93.17% and a high precision score of 1. Both of these indicate that this model would predict with a high degree of accuracy and precision, both of which are needed in a good machine learning model. Although the other models have similar precision scores, their accuracy is signifacntly lower which would lend to the results being off.
+
+Accuracy = ( True Positives + True Negavites ) / Total Outputs
+Precision = True Positives / ( True Positives + False Positives )
+
+
 
